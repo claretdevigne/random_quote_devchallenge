@@ -1,0 +1,26 @@
+.authorBtn-container:hover {
+  background-color: #333;
+  color: white;
+  cursor: pointer
+}
+
+.arrow-icon {
+  visibility: hidden;
+}
+
+.authorBtn-container:hover .arrow-icon {
+  visibility: visible;
+  color: white;
+}
+
+.author-yellow-line {
+  width: 5px;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+a {
+  color: black;
+}
